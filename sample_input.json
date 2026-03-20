@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "title": "Kitchen Organizer Rack",
+      "price": "9.99",
+      "images": ["https://example.com/image.jpg"]
+    }
+  ]
+}
